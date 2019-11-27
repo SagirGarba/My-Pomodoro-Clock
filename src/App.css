@@ -1,0 +1,32 @@
+.Header{
+  text-align: center;
+}
+
+.settings{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 80px;
+}
+
+.SetTimer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SetTimer-controls{
+  display: flex;
+  justify-content: center;
+}
+
+.Timer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.controls{
+  display: flex;
+  justify-content: center;
+}
+
